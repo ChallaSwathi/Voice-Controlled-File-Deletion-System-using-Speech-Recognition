@@ -3,10 +3,14 @@ A Python project that enables users to delete files from their system using voic
 
 # Features:
 Voice recognition for file path commands
+
 Automatic extraction of file paths from speech/text
+
 Secure file deletion with fallback to manual input
 
 # Tech Stack:
 Python
+
 Speech Recognition / OpenAI Whisper
+
 OS & Regex for file handling
